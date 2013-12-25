@@ -1,0 +1,13 @@
+{
+	"description": "<p>EX.UA - server of information exchange<p>For further info, visit <a href=\"http://ex.ua\">http://ex.ua</a>",
+	"author": "Wain, Iprot", 
+	"homepage": "http://github.com/Wain-PC/",
+	"title": "EX.UA Simple",
+	"synopsis": "Express file - server of information exchange",
+	"version": "0.1", "file": "ex_ua.js",
+	"showtimeVersion": "4.1.397",
+	"type": "javascript", 
+	"id": "ex.ua.simple",
+	"icon": "logo.png",
+	"category": "video"
+}
