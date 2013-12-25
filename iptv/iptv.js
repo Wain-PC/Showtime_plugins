@@ -1,5 +1,7 @@
 /*
- *  Copyright (C) 2013 Buksa
+ *  Copyright (C) 2013 Wain
+ *
+ *	This plugin is initially based on Buksa code (https://github.com/Buksa)
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
@@ -14,7 +16,7 @@
  *  You should have received a copy of the GNU General Public License
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-//ver 0.1s
+//ver 0.2
 (function(plugin) {
   var plugin_info = plugin.getDescriptor();
   var PREFIX = plugin_info.id;

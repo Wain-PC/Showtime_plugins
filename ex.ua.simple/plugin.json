@@ -5,7 +5,7 @@
 	"title": "EX.UA Simple",
 	"synopsis": "Express file - server of information exchange",
 	"version": "0.1", "file": "ex_ua.js",
-	"showtimeVersion": "4.1.397",
+	"showtimeVersion": "4.3.576",
 	"type": "javascript", 
 	"id": "ex.ua.simple",
 	"icon": "logo.png",

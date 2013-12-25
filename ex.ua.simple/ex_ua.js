@@ -1,7 +1,12 @@
 /**
  * EX.UA plugin for Showtime
  *
- *  Copyright (C) 2013 lprot
+ *  Copyright (C) 2013 Wain
+ *
+ *	This plugin is based on lprot code (https://github.com/lprot)
+ *
+ *	It's simplified and speed-up version to run specifically on low-end hardware (e.g. Raspberry Pi)
+ *
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
@@ -19,7 +24,7 @@
 
 (function(plugin) {
   
-  var PREFIX = 'ex_ua';
+  var PREFIX = 'ex_ua_simple';
   var BASE_URL = 'http://ex.ua';
   var logo = plugin.path + "logo.png";
   
